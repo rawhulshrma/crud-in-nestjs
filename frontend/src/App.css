@@ -1,0 +1,13 @@
+.dark-mode-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  z-index: 9999;
+  color: #fff; /* Change color as needed */
+  font-size: 24px;
+}
+
+.dark-mode-toggle:hover {
+  opacity: 0.7;
+}
